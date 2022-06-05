@@ -1,0 +1,23 @@
+body {
+  background: url(../static/background.png);
+  background-repeat: repeat-y;
+  color: white;
+}
+
+.text-title {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  font-weight: 700;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.carousel-inner {
+  border-radius: 15px;
+}
+
+.carousel-inner img {
+  height: 180px;
+}
